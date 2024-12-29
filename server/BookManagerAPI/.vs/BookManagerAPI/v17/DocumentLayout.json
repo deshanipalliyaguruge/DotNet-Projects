@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNet Projects\\server\\BookManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|f:\\dotnet projects\\server\\bookmanagerapi\\bookmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|solutionrelative:bookmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|f:\\dotnet projects\\server\\bookmanagerapi\\bookmanagerapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|solutionrelative:bookmanagerapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|f:\\dotnet projects\\server\\bookmanagerapi\\bookmanagerapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F455A983-06D2-4697-86C2-84AF02976891}|BookManagerAPI\\BookManagerAPI.csproj|solutionrelative:bookmanagerapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagerAPI\\Program.cs",
+              "ToolTip": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Program.cs",
+              "RelativeToolTip": "BookManagerAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:46:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagerAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagerAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:52:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "BookManagerAPI\\Models\\Class.cs",
+              "ToolTip": "F:\\DotNet Projects\\server\\BookManagerAPI\\BookManagerAPI\\Models\\Class.cs",
+              "RelativeToolTip": "BookManagerAPI\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:51:32.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
